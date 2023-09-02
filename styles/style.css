@@ -1,0 +1,48 @@
+a {
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+a:hover{
+    color: #ca5555;
+}
+
+a:active{
+    color: #0ed40e;
+}
+
+.menu_item {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+    list-style-type: none;
+    margin: 0 10px 0 10px;
+}
+
+.big_title {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.content_text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7d7987;
+}
+
+.content_title {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
